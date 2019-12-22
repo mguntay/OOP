@@ -1,0 +1,9 @@
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.Form1.resources
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\bin\Debug\OOP.extented_.exe.config
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\bin\Debug\OOP.extented_.exe
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\bin\Debug\OOP.extented_.pdb
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.exe
+C:\Users\muammer.guntay\source\repos\OOP.extented_\OOP.extented_\obj\Debug\OOP.extented_.pdb

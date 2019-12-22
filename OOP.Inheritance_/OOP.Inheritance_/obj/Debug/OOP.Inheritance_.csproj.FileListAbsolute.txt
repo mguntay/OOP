@@ -1,0 +1,11 @@
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.Form1.resources
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\bin\Debug\OOP.Inheritance_.exe.config
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\bin\Debug\OOP.Inheritance_.exe
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\bin\Debug\OOP.Inheritance_.pdb
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.exe
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.pdb
+C:\Users\muammer.guntay\source\repos\OOP.Inheritance_\OOP.Inheritance_\obj\Debug\OOP.Inheritance_.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.Form1.resources
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\bin\Debug\OPP.referenceValueType.exe.config
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\bin\Debug\OPP.referenceValueType.exe
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\bin\Debug\OPP.referenceValueType.pdb
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.exe
+C:\Users\muammer.guntay\source\repos\OPP.referenceValueType\OPP.referenceValueType\obj\Debug\OPP.referenceValueType.pdb

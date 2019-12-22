@@ -1,0 +1,9 @@
+C:\Users\muammer.guntay\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\muammer.guntay\source\repos\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\muammer.guntay\source\repos\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\muammer.guntay\source\repos\OOP\OOP\obj\Debug\OOP.pdb

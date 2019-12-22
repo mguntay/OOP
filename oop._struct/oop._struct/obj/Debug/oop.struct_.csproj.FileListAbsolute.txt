@@ -1,0 +1,10 @@
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\bin\Debug\oop.struct_.exe.config
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\bin\Debug\oop.struct_.exe
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\bin\Debug\oop.struct_.pdb
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop.struct_.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop._struct.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop.struct_.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop.struct_.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop.struct_.exe
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop.struct_.pdb
+C:\Users\muammer.guntay\source\repos\oop._struct\oop._struct\obj\Debug\oop._struct.Form1.resources
